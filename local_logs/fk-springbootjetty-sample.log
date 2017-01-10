@@ -1,0 +1,2 @@
+
+2017-01-10 11:23:54.467  WARN [] 10728 --- [trace=,span=] [Hikari housekeeper (pool HikariPool-0)] com.zaxxer.hikari.pool.HikariPool: HikariPool-0 - Unusual system clock change detected, soft-evicting connections from pool.
